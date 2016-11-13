@@ -1,0 +1,52 @@
+body {
+  background-color: #08088A !important;
+}
+
+h1, p {
+  color: #FF0000;
+  text-align: center;
+}
+
+h2 {
+  color: #FFFFFF;
+}
+
+div {
+  text-align: center;
+  margin: 0 auto;
+}
+
+table {
+  margin: 0 auto;
+  color: #08088A;
+}
+
+tr {
+  font-size:15pt;
+}
+
+footer{
+  text-align: center;
+}
+
+footer a{
+  font-size:20pt;
+}
+
+.text-white{
+  color:white;
+}
+
+.text-blue{
+  color:blue;
+}
+
+.text-red{
+  color: #FF0000;
+}
+
+.center-image{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
